@@ -1,6 +1,5 @@
 - 👋 Hi, I’m BFischer from NLD
-- 👀 I’m a starting programming following my time as a biomedisal researcher
-- 🌱 Currently I'm focussing on Python and starting with Java 
+- 👀 I’m a starting programming following my time as a biomedical researcher
 
 <!---
 BFischer-GH/BFischer-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
